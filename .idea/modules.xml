@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MergeData.iml" filepath="$PROJECT_DIR$/MergeData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalKNN.iml" filepath="$PROJECT_DIR$/FinalKNN.iml" />
     </modules>
   </component>
 </project>
